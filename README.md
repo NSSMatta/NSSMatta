@@ -80,24 +80,7 @@ Hello! I'm a passionate Cybersecurity Analyst with deep expertise in threat dete
   </tr>
 </table>
 
----
 
-### 📈 Global Threat Intelligence (GitHub Stats)
-
-<p align="center">
-  <a href="https://github.com/NSSMatta">
-    <img src="https://github-readme-stats.vercel.app/api?username=NSSMatta&show_icons=true&bg_color=000000&text_color=00FF41&icon_color=00FF41&title_color=00FF41&hide_border=true&include_all_commits=true" alt="NSSMatta GitHub Stats" />
-  </a>
-  <a href="https://github.com/NSSMatta">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSSMatta&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&hide_border=true" alt="NSSMatta GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSMatta&layout=compact&bg_color=000000&text_color=00FF41&title_color=00FF41&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📡 Establish Connection
 
