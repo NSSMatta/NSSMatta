@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Naga%20Sai%20Srinivas%20Matta&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20GRC%20%7C%20Threat%20Hunter&descAlignY=55&descAlign=50&fontColor=00FF41" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Naga%20Sai%20Srinivas%20Matta&fontSize=50&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20GRC%20%7C%20Threat%20Hunter&descAlignY=55&descAlign=50&fontColor=000000&descSize=20" />
 </div>
 
 <h2 align="center"> 👾 INITIALIZING_ROOT_ACCESS... 👾 </h2>
@@ -86,15 +86,15 @@ Hello! I'm a passionate Cybersecurity Analyst with deep expertise in threat dete
 
 <p align="center">
   <a href="https://github.com/NSSMatta">
-    <img src="https://github-readme-stats.vercel.app/api?username=NSSMatta&show_icons=true&theme=radical&bg_color=000000&text_color=00FF41&icon_color=00FF41&title_color=00FF41&hide_border=true&include_all_commits=true&count_private=true" alt="NSSMatta GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NSSMatta&show_icons=true&bg_color=000000&text_color=00FF41&icon_color=00FF41&title_color=00FF41&hide_border=true&include_all_commits=true" alt="NSSMatta GitHub Stats" />
   </a>
   <a href="https://github.com/NSSMatta">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSSMatta&theme=radical&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&hide_border=true" alt="NSSMatta GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSSMatta&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&hide_border=true" alt="NSSMatta GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSMatta&layout=compact&theme=radical&bg_color=000000&text_color=00FF41&title_color=00FF41&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSSMatta&layout=compact&bg_color=000000&text_color=00FF41&title_color=00FF41&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
